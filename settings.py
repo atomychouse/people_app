@@ -10,10 +10,3 @@ users['alberto'] = Alberto
 users['miriam'] = Miriam
 
 
-class User:
-
-    def get_user(self):
-        pass
-    def auth_user(self):
-        pass
-    
